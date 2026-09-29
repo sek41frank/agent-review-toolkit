@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+models.local.json
+*.local.json
+auth.json
+credentials.json
+runs/
+*.log
+.coverage
+htmlcov/

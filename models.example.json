@@ -1,0 +1,4 @@
+{
+  "scanner": {"model": "deepseek/deepseek-flash#low"},
+  "reviewer": {"model": "opencode/claude-sonnet-5#medium"}
+}
